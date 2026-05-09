@@ -40,9 +40,9 @@ The model analyzes news headlines, claims, and article snippets to classify them
 
 ## 🤖 Model Information
 
-This application uses a fine-tuned **DistilBERT** transformer model trained on the **WELFake Dataset** for misinformation detection.
+This application uses a fine-tuned **DistilBERT transformer model** trained on the **WELFake dataset** for misinformation detection.
 
-Hugging Face Model Repo:
+Hugging Face Model Repository:
 
 ```text
 Neelam0404/distilbert-misinfo-model
