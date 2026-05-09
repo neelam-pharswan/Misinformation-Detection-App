@@ -11,7 +11,7 @@ The model analyzes news headlines, claims, and article snippets to classify them
 
 ## 🚀 Live Demo
 
-[Open Streamlit App](YOUR_STREAMLIT_LINK_HERE)
+[Open Streamlit App](https://misinformation-detection-app-v8qbcbsbbtab9yqhxntdmx.streamlit.app/)
 
 ---
 
